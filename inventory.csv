@@ -1,0 +1,15 @@
+FOOD_ID,Name,Quantity,Price,Discount,Stock
+RFC557,Maslal Dosa,1 Piece,50,10,20
+RFC558,Idli,2 pieces,40,5,40
+RFC559,Poori,2 pieces,50,5,30
+RFC560,Chapathi,2 pieces,30,0,20
+RFC561,Masala Vada,1 piece,20,0,40
+RFC562,Apple Juice,500ml,50,0,20
+RFC563,Fried Rice,1 plate,80,10,20
+RFC564,Rice Sambar,1 plate,50,0,50
+RFC565,Mushrooms,250gms,45,0,55
+RFC566,Water Bottle,1 litre,20,0,45
+RFC567,Paneer Partha,1 plate,55,20,50
+RFC568,Roti Curry Combo,2 Roti curry,65,10,22
+RFC569,Veg Biriyani,1 plate,90,10,33
+RFC570,Aloo Parata,2 pieces,80,20,14
